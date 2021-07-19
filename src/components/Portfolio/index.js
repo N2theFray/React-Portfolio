@@ -6,7 +6,7 @@ function Portfolio () {
  
     <div className="flex-row row justify-content-center align-center">
 
-        <div className="card col-3 mx-3  my-3" >
+        <div className="card col-lg-3 mx-3  my-3" >
             <img src={require('../../assets/NoSQL.png').default}  class="card-img-top my-2" alt="img-one"></img>
             <div className="card-body">
                 <h5 className="card-title">NoSQL Social Network</h5>
@@ -19,7 +19,7 @@ function Portfolio () {
             </div>
         </div>
 
-        <div className="card col-3 mx-3 my-3" >
+        <div className="card col-lg-3 mx-3 my-3" >
             <img src={require('../../assets/MVC.png').default} class="card-img-top my-2" alt="img-one"></img>
 
             <div className="card-body">
@@ -32,7 +32,7 @@ function Portfolio () {
             </div>
         </div>
 
-        <div className="card col-3 mx-3 my-3" >
+        <div className="card col-lg-3 mx-3 my-3" >
             <img src={require('../../assets/ORM.png').default} class="card-img-top my-2" alt="img-one"></img>
 
             <div className="card-body">
@@ -45,7 +45,7 @@ function Portfolio () {
             </div>
         </div>
 
-        <div className="card col-3 mx-3 my-3" >
+        <div className="card col-lg-3 mx-3 my-3" >
             <img src={require('../../assets/SQL.png').default} class="card-img-top my-2" alt="img-one"></img>
 
             <div className="card-body">
@@ -58,7 +58,7 @@ function Portfolio () {
             </div>
         </div>
 
-        <div className="card col-3 mx-3 my-3" >
+        <div className="card col-lg-3 mx-3 my-3" >
             <img src={require('../../assets/Express.png').default} class="card-img-top my-2" alt="img-one"></img>
 
             <div className="card-body">
@@ -71,7 +71,7 @@ function Portfolio () {
             </div>
         </div>
 
-        <div className="card col-3 mx-3 my-3" >
+        <div className="card col-lg-3 mx-3 my-3" >
             <img src={require('../../assets/OOP.png').default} class="card-img-top my-2 " alt="img-one"></img>
 
             <div className="card-body">
