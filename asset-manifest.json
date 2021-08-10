@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.9130a077.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.181b4751.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.181b4751.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.a2c83dd7.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.a2c83dd7.js.map",
+    "static/js/2.28d0a424.chunk.js": "/React-Portfolio/static/js/2.28d0a424.chunk.js",
+    "static/js/2.28d0a424.chunk.js.map": "/React-Portfolio/static/js/2.28d0a424.chunk.js.map",
+    "static/js/3.03cce247.chunk.js": "/React-Portfolio/static/js/3.03cce247.chunk.js",
+    "static/js/3.03cce247.chunk.js.map": "/React-Portfolio/static/js/3.03cce247.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.9130a077.chunk.css.map": "/React-Portfolio/static/css/main.9130a077.chunk.css.map",
+    "static/js/2.28d0a424.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.28d0a424.chunk.js.LICENSE.txt",
+    "static/media/Express.png": "/React-Portfolio/static/media/Express.60e03d23.png",
+    "static/media/MVC.png": "/React-Portfolio/static/media/MVC.f2ceade9.png",
+    "static/media/NoSQL.png": "/React-Portfolio/static/media/NoSQL.031df0a3.png",
+    "static/media/OOP.png": "/React-Portfolio/static/media/OOP.cce53b7b.png",
+    "static/media/ORM.png": "/React-Portfolio/static/media/ORM.f82b0214.png",
+    "static/media/Resume.c8c4699d.pdf": "/React-Portfolio/static/media/Resume.c8c4699d.pdf",
+    "static/media/SQL.png": "/React-Portfolio/static/media/SQL.54379180.png",
+    "static/media/profile.jpeg": "/React-Portfolio/static/media/profile.019b0aaa.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2c83dd7.js",
+    "static/js/2.28d0a424.chunk.js",
+    "static/css/main.9130a077.chunk.css",
+    "static/js/main.181b4751.chunk.js"
+  ]
+}
