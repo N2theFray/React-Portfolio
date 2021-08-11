@@ -15,7 +15,7 @@ function Portfolio () {
                 <a className="mx-1" href="https://github.com/N2theFray/NoSQL-Social-Network.git">Git Repository</a>
             
                 
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p className="card-text">A social networking app where a user is able to post, edit, and delete thoughts, users and reactions.</p>
             </div>
         </div>
 
@@ -28,7 +28,7 @@ function Portfolio () {
                 <a className="mx-1" href="https://sleepy-eyrie-10581.herokuapp.com/">App Demo</a>
                 <a className="mx-1" href="https://github.com/N2theFray/MVC-tech-blog.git">Git Repository</a>
 
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p className="card-text">A techblog that allows signed in users to create, update, edit blog posts, additionally allows for commenting on other users posts.</p>
             </div>
         </div>
 
@@ -41,7 +41,7 @@ function Portfolio () {
                 <a className="mx-1" href="https://drive.google.com/file/d/15wqp_VIp3fpDvZVOcZZO9aVyiNEKsp6N/view">App Demo</a>
                 <a className="mx-1" href="https://github.com/N2theFray/ORM-E-Commerce.git">Git Repository</a>
 
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p className="card-text">A backend for an ecommerce company that uses Sequelize as the ORM.</p>
             </div>
         </div>
 
@@ -54,7 +54,7 @@ function Portfolio () {
                 <a className="mx-1" href="https://drive.google.com/file/d/1LjUBMhjq2tq8av48zkIf-t9S2yKg6E9x/preview">App Demo</a>
                 <a className="mx-1" href="https://github.com/N2theFray/sql-employee-tracker.git">Git Repository</a>
 
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p className="card-text">SQL based application for tracking employees.</p>
             </div>
         </div>
 
@@ -67,7 +67,7 @@ function Portfolio () {
                 <a className="mx-1" href="https://whispering-dawn-78598.herokuapp.com/" >App Demo</a>
                 <a className="mx-1" href="https://github.com/N2theFray/express-note-taker.git">Git Repository</a>
 
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p className="card-text">When a user clicks on the landing page take notes button it is taken to a secondary page that has an active notes section. The user is able to create, delete, and view previously created notes.</p>
             </div>
         </div>
 
@@ -80,7 +80,7 @@ function Portfolio () {
                 <a className="mx-1" href="https://drive.google.com/file/d/1DmTC584tL1OuRww5UPY17JHlGPLvg-gL/view">App Demo</a>
                 <a className="mx-1" href="https://github.com/N2theFray/employee-portal.git">Git Repository</a>
 
-                <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <p className="card-text">Employee portal that allows for the updating and tracking of employee information.</p>
             </div>
         </div>
 
