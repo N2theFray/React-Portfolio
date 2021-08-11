@@ -11,7 +11,7 @@ const Header = () => {
        
 
         <nav className="text-center">
-          <Link className="mx-2 text-dark" to="/">About Me</Link>
+          <Link className="mx-2 text-dark" to="/React-Portfolio">About Me</Link>
           <Link className="mx-2 text-dark" to="/contact">Contact</Link>
           <Link className="mx-2 text-dark" to='/portfolio'>Portfolio</Link>
           <Link className="mx-2 text-dark" to='/resume'>Resume</Link>

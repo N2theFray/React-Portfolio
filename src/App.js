@@ -23,6 +23,7 @@ function App() {
   
       <Header/>
       <main>
+        {About}
         <Route exact path="/React-Portfolio" component={About} />
         <Route exact path='/contact' component={Contact} />
         <Route exact path='/portfolio' component={Portfolio} />
