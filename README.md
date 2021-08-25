@@ -1,10 +1,11 @@
 # React-Portfolio
 
+## Description
+A portfolio webpage that displays my talents as a web developer using React as the main front-end engine of running the webpage
+
 ## link
 https://n2thefray.github.io/React-Portfolio/
 
-## Summary
-A portfolio webpage that displays my talents as a web developer using React as the main engine of running the webpage
 
 
 ## Installation
