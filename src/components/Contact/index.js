@@ -40,7 +40,7 @@ function ContactForm() {
       <div>
     <section >
       <h1 data-testid="h1tag" class="h1-responsive font-weight-bold text-center my-4">Contact me</h1>
-      <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact us directly. </p>
+      <p class="text-center w-responsive mx-auto mb-5">Do you have any questions? Please do not hesitate to contact us directly. <br/>Email: Blacksteven1@gmail.com </p>
       
         <div class="col-md-9 mb-md-0 mb-5 mx-auto ">
             <form className="card col-12 d-flex justify-content-center py-3" id="contact-form" onSubmit={handleSubmit}>
